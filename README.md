@@ -1,3 +1,1 @@
-# Firstrepo
-making changes here
-now will nake changes for news
+this is smthg new 
